@@ -1,6 +1,6 @@
-# clone_2025
+# Xendit 
 
-A new Flutter project.
+A Smart Foreign Exchange Payments Assistant 
 
 ## Getting Started
 
